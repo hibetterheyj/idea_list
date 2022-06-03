@@ -4,9 +4,12 @@
 
   - Google earth, web scraping, webapp
 
-- YouTube video slam/F1 GP SLAM
+- YouTube video slam/F1 GP SLAM/FOV bus route video
 
   - dataset processing, web scraping, SLAM
+  - related links:
+    - <https://en.wikipedia.org/wiki/List_of_Formula_One_circuits>
+    - [Formula 1 Circuit Maps](https://f1chronicle.com/formula-1-circuit-maps/)
 
 - GeoGuessing with Deep Learning in Switzerland
 
