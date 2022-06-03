@@ -1,5 +1,11 @@
 # idea_list
 
+- Train visulizer in 2d/3d like flightradar
+
+  - Google earth, web scraping, webapp
+
+- YouTube video slam
+
 - GeoGuessing with Deep Learning in Switzerland
 
   - keyword: deep learning, scene understanding (in the wild), place recognition
