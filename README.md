@@ -4,7 +4,9 @@
 
   - Google earth, web scraping, webapp
 
-- YouTube video slam
+- YouTube video slam/F1 GP SLAM
+
+  - dataset processing, web scraping, SLAM
 
 - GeoGuessing with Deep Learning in Switzerland
 
