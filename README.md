@@ -19,3 +19,10 @@
     - [swiss-webcam-scraper](https://github.com/hibetterheyj/swiss-webcam-scraper)
     - [Livecam references - Switzerland - Roundshot](https://www.roundshot.com/xml_1/internet/en/application/d170/f172.cfm)
 
+- Build Quadrotor sim on Isaac Sim
+  - keyword: sim2real, robotics, gym
+  - related links:
+    - <https://github.com/leggedrobotics/legged_gym>
+    - <https://github.com/utiasDSL/gym-pybullet-drones>
+    - <https://www.dynsyslab.org/iros-2022-safe-robot-learning-competition/>
+
